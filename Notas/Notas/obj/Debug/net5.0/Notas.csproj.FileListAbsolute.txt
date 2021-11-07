@@ -1,0 +1,16 @@
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\obj\Debug\net5.0\Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\obj\Debug\net5.0\Notas.AssemblyInfoInputs.cache
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\obj\Debug\net5.0\Notas.AssemblyInfo.cs
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\obj\Debug\net5.0\Notas.csproj.CoreCompileInputs.cache
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\bin\Debug\net5.0\Notas.exe
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\bin\Debug\net5.0\Notas.deps.json
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\bin\Debug\net5.0\Notas.runtimeconfig.json
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\bin\Debug\net5.0\Notas.runtimeconfig.dev.json
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\bin\Debug\net5.0\Notas.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\bin\Debug\net5.0\ref\Notas.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\bin\Debug\net5.0\Notas.pdb
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\obj\Debug\net5.0\Notas.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\obj\Debug\net5.0\ref\Notas.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\obj\Debug\net5.0\Notas.pdb
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\obj\Debug\net5.0\Notas.genruntimeconfig.cache
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\Notas\Notas\obj\Debug\net5.0\Notas.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\bin\Debug\net5.0\exercicio7.exe
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\bin\Debug\net5.0\exercicio7.deps.json
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\bin\Debug\net5.0\exercicio7.runtimeconfig.json
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\bin\Debug\net5.0\exercicio7.runtimeconfig.dev.json
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\bin\Debug\net5.0\exercicio7.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\bin\Debug\net5.0\ref\exercicio7.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\bin\Debug\net5.0\exercicio7.pdb
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.csproj.AssemblyReference.cache
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.AssemblyInfoInputs.cache
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.AssemblyInfo.cs
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\obj\Debug\net5.0\ref\exercicio7.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.pdb
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\exercicio7\exercicio7\obj\Debug\net5.0\exercicio7.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\bin\Debug\net5.0\ExercicoSabado.exe
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\bin\Debug\net5.0\ExercicoSabado.deps.json
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\bin\Debug\net5.0\ExercicoSabado.runtimeconfig.json
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\bin\Debug\net5.0\ExercicoSabado.runtimeconfig.dev.json
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\bin\Debug\net5.0\ExercicoSabado.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\bin\Debug\net5.0\ref\ExercicoSabado.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\bin\Debug\net5.0\ExercicoSabado.pdb
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\obj\Debug\net5.0\ExercicoSabado.csproj.AssemblyReference.cache
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\obj\Debug\net5.0\ExercicoSabado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\obj\Debug\net5.0\ExercicoSabado.AssemblyInfoInputs.cache
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\obj\Debug\net5.0\ExercicoSabado.AssemblyInfo.cs
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\obj\Debug\net5.0\ExercicoSabado.csproj.CoreCompileInputs.cache
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\obj\Debug\net5.0\ExercicoSabado.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\obj\Debug\net5.0\ref\ExercicoSabado.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\obj\Debug\net5.0\ExercicoSabado.pdb
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\ExercicoSabado\ExercicoSabado\obj\Debug\net5.0\ExercicoSabado.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\bin\Debug\net5.0\NumeroInteiro.exe
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\bin\Debug\net5.0\NumeroInteiro.deps.json
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\bin\Debug\net5.0\NumeroInteiro.runtimeconfig.json
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\bin\Debug\net5.0\NumeroInteiro.runtimeconfig.dev.json
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\bin\Debug\net5.0\NumeroInteiro.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\bin\Debug\net5.0\ref\NumeroInteiro.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\bin\Debug\net5.0\NumeroInteiro.pdb
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\obj\Debug\net5.0\NumeroInteiro.csproj.AssemblyReference.cache
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\obj\Debug\net5.0\NumeroInteiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\obj\Debug\net5.0\NumeroInteiro.AssemblyInfoInputs.cache
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\obj\Debug\net5.0\NumeroInteiro.AssemblyInfo.cs
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\obj\Debug\net5.0\NumeroInteiro.csproj.CoreCompileInputs.cache
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\obj\Debug\net5.0\NumeroInteiro.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\obj\Debug\net5.0\ref\NumeroInteiro.dll
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\obj\Debug\net5.0\NumeroInteiro.pdb
+C:\Users\herso\OneDrive\Desktop\TreinamentoB3_C#\NumeroInteiro\NumeroInteiro\obj\Debug\net5.0\NumeroInteiro.genruntimeconfig.cache
